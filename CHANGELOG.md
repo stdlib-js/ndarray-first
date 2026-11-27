@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-21)
+## Unreleased (2026-11-27)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b14e270`](https://github.com/stdlib-js/stdlib/commit/b14e270903419b45420ccb6fe5a5056817dda0ba) - **test:** use dedicated zero-dimensional tensor constructor in `ndarray/first` [(#16849)](https://github.com/stdlib-js/stdlib/pull/16849) _(by Anshu Raj Bisoyi)_
 -   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`36044b1`](https://github.com/stdlib-js/stdlib/commit/36044b17e4a5cfb74f46eb66e0b8767a86fa5d38) - **feat:** add `ndarray/first` [(#11907)](https://github.com/stdlib-js/stdlib/pull/11907) _(by Muhammad Haris, Athan Reines)_
 
@@ -35,8 +36,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Anshu Raj Bisoyi
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
